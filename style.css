@@ -1,0 +1,21 @@
+
+.container{
+    align-content: center;
+}
+.card{
+    
+    border: 0; 
+}
+
+.center{
+     display: flex; 
+     justify-content: space-evenly;
+    /* /justify-content: space-evenly; */
+    justify-content: center;
+  
+
+}
+
+mb-3{
+    text-align: left;
+}
